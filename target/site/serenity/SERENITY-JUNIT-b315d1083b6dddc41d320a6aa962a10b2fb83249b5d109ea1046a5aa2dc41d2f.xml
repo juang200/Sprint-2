@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="The user can goes to the genaral detail player module" skipped="0" tests="1" time="36.49" timestamp="2023-01-17 04:48:51"><testcase name="Actor can sees more filters"><failure message="Expected ver mas filtros&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">Expected ver mas filtros
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>Expected ver mas filtros
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+Stepsdefinitions.DetalleJugadorSteps.He_sees_all_the_filters_options(DetalleJugadorSteps.java:92)&#13;
+✽.He sees all the filters options Número de documento(src/test/resources/Features/DetalleJugador.feature:24)&#13;
+</system-err></testcase></testsuite>
